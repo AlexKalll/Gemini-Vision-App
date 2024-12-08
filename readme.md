@@ -1,6 +1,6 @@
 # Gemini PicAnalyzer | Gemini Vision
 
-![Gemini PicAnalyzer](https://raw.githubusercontent.com/AlexKalll/Gemini-Vision-App/blob/main/Demo(1).mp4)
+![Gemini PicAnalyzer](Demo.gif)
 
 ## Overview 
 
